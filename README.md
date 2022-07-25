@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Jr.WordPress developer at Redberry<br>🌱 I’m currently learning Full Stack development with the most powerful and popular frameworks/libraries<br>💬 Ask me about Full Stack, WordPress and also about a game dev.<br>⚡ Fun fact: I use smart watch but always check the time with my phone :D
+🔭 I’m currently working as a WordPress developer at Redberry<br>🌱 I’m currently learning Full Stack development with the most powerful and popular frameworks/libraries<br>💬 Ask me about Full Stack, WordPress and also about a game dev.<br>⚡ Fun fact: I use smart watch but always check the time with my phone :D
 
 
 ## 🌐 Socials:
